@@ -12,6 +12,18 @@ A simple *console-based Tic Tac Toe game* implemented in *C programming language
 
 ---
 
+## 🕹 How to Play
+1. The game is for **two players**.  
+2. Players take turns entering the **row and column numbers** to place their symbol (`X` or `O`).  
+3. The board updates after each move.  
+4. The game ends when a player wins or when all cells are filled (draw).  
+
+**Keyboard Controls:**  
+- Enter row number (1-3)  
+- Enter column number (1-3)  
+
+---
+
 ## 🛠 Technologies Used
 - C Language  
 - 2D arrays for board representation  
