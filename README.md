@@ -26,3 +26,6 @@ git clone https://github.com/Anjali-410/Tic_Tac_Toe_Game.git
 cd Tic_Tac_Toe_Game
 gcc main.c game.c -o tic_tac_toe
 ./tic_tac_toe```
+
+---
+
