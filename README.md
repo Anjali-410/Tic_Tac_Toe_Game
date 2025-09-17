@@ -2,6 +2,9 @@
 
 A simple *console-based Tic Tac Toe game* implemented in *C programming language*.
 
+![C Language](https://img.shields.io/badge/Language-C-blue)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/Anjali-410/Tic_Tac_Toe_Game)
+
 ---
 
 ## 📌 Features
@@ -42,4 +45,4 @@ gcc main.c game.c -o tic_tac_toe
 ---
 
 ## 🎬 Demo
-![Tic Tac Toe Demo](tic-tac-toe gf.gif)
+![Tic Tac Toe Demo](tic-tac-toe%20gf.gif)
