@@ -29,3 +29,5 @@ gcc main.c game.c -o tic_tac_toe
 
 ---
 
+## 🎬 Demo
+![Tic Tac Toe Demo](tic-tac-toe gf.gif)
